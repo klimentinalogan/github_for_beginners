@@ -1,1 +1,1 @@
-# gitnub_for_beginners
+# github_for_beginners
